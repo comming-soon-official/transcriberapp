@@ -1,0 +1,4 @@
+**/node_modules/**
+
+/frontend/config.env.ts
+**/yarn.lock/**
